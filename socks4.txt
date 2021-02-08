@@ -13,3 +13,4 @@ https://cracked.to/Forum-Proxies?sortby=lastpost&order=desc&datecut=20&prefix=19
 http://www.proxylists.net/socks4.txt
 https://premproxy.com/socks-list/
 https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt
+https://api.getproxylist.com/proxy?protocol[]=socks4
