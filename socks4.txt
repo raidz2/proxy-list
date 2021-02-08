@@ -1,6 +1,5 @@
-15 Sites (8000 - 10000)
+14 Sites (8000 - 10000)
 https://www.my-proxy.com/free-socks-4-proxy.html
-https://hidemy.name/en/proxy-list/?type=4&anon=234#list
 https://www.proxy-list.download/SOCKS4
 https://openproxy.space/list
 https://api.proxyscrape.com/v2/?request=getproxies&amp;protocol=socks4&amp;timeout=10000&amp;country=all&amp;simplified=true
