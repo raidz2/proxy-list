@@ -1,0 +1,13 @@
+12 Sites (8000 - 10000)
+https://api.proxyscrape.com/v2/?request=getproxies&amp;protocol=http&amp;timeout=10000&amp;country=all&amp;ssl=all&amp;anonymity=anonymous&amp;simplified=true
+https://openproxy.space/list
+https://www.proxyscan.io/download?type=http
+http://free-proxy.cz/en/proxylist/country/all/http/ping/level2
+https://www.proxy-list.download/HTTP
+https://hideip.me/en/proxy/httplist
+https://www.freeproxychecker.com/result/http_proxies.txt
+https://api.getproxylist.com/proxy?protocol[]=http
+http://www.proxyserverlist24.top/feeds/posts/default
+http://rootjazz.com/proxies/proxies.txt
+http://best-proxy.com/english/yourproxylists/type-anonymous-and-elite/ssl-no/sample.txt
+https://cracking.org/search/412364/?q=HTTP&o=relevance
