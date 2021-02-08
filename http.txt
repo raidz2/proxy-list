@@ -9,5 +9,5 @@ https://www.freeproxychecker.com/result/http_proxies.txt
 https://api.getproxylist.com/proxy?protocol[]=http
 http://www.proxyserverlist24.top/feeds/posts/default
 http://rootjazz.com/proxies/proxies.txt
-http://best-proxy.com/english/yourproxylists/type-anonymous-and-elite/ssl-no/sample.txt
+http://best-proxy.com/english/search.php?search=anonymous-and-elite.ssl-no&country=any&type=anonymous-and-elite&port=any&ssl=no
 https://cracking.org/search/412364/?q=HTTP&o=relevance
